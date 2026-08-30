@@ -1,0 +1,98 @@
+# class Plant:
+#     def __init__(self, type, size,  is_blooming = False):
+#         self.type = type
+#         self.size = size
+#         self.is_blooming = is_blooming
+
+#     def grow(self):
+#         if self.size == "small":
+#             self.size = "medium"
+#         else:
+#             self.size == "large"
+         
+#     def bloom(self):
+#         self.is_blooming = True
+
+#     def stop_blooming(self):
+#         self.is_blooming = False
+
+#     def status(self):
+#         print(f"Type: {self.type}, Size: {self.size}, Blooming: {self.is_blooming}")
+
+# # my_plant = Plant('flower', 'small')
+# # my_plant(status)
+
+# my_plants = [Plant('rose', 'small'), 
+#              Plant('sunflower', 'large'),
+#              Plant('cactus', 'small', True),
+#              Plant('tulip', 'medium'),
+#              Plant('orchid', 'small', True)
+#              ]
+
+# for plant in my_plants:
+#     plant.grow()
+#     plant.bloom()
+#     plant.status()
+
+# class Animal:
+#     def __init__(self, name):
+#         self.name = name
+
+# class Dog(Animal):
+#     def bark(self):
+#         print(f'{self.name} is barking')
+
+# class Cat(Animal):
+
+#     def meow (self):
+#         print(f'{self.name} is meowing')
+
+# my_dog = Dog('Bob')
+# my_dog.bark()
+
+# my_animal = Animal('Bill')
+# my_cat = Cat('Doroty')
+# # my_cat.hello()
+# my_cat.meow()
+
+# class Animal:
+#     def __init__(self, name):
+#         self.__thought = 'I`m a really bad animal'
+#         self.name = name
+
+#     def __dark_thoughts(self):
+#         print(f'My dark are: {self.__thought}')
+
+#     def deep_thoughts(self):
+#         self.__dark_thoughts()
+
+# my_animal = Animal('Mike')
+# # print(f'{my_animal.name} thinks: {my_animal.thought}')
+# my_animal.deep_thoughts()
+
+# a = [0, 1, 2]
+# print(a[3])
+# print('Everything is good')
+
+# my_varible = input('Input a number:')
+# try:
+#     my_age = int(my_varible)
+# except: 
+#     print('Your age is no correct')
+#     # my_age = 0
+# else:
+#     print('I`m an else')
+# finally:
+#     print("I`m a finally")
+# print('Everything is good')
+
+# a = 10 
+# if a < 15:
+#     raise Exception(f'The sun is shining')
+# print('?')
+
+# from functools import reduce
+
+# from myfirstmodule import say_hello as bu
+
+# bu()

@@ -1,0 +1,79 @@
+# class Dog():
+#     pass
+
+# shelter_dog = Dog()
+# action = ['sleep', 'eat', 'bark']
+# name = input('Putt name of Dog:')
+# print(f'Your dogs name is {name}')
+
+# while True:
+#     action = random.choice(action)
+#     print(f'{name} is {action}')
+#     if input ('continue? yes/no:').lower() != 'yes':
+#         break
+
+# class Animal():
+#     def __init__(self, name):
+#         self.name = name
+#         self.actions = ('sleep','eat')
+
+#     def sound(self):
+#         return ""
+
+# class Dog(Animal):
+#    def sound(self):
+#        return'bark'
+
+# class Cat(Animal):
+#     def sound(self):
+#         return'Meow'
+
+# animal_type = ['Dog', 'Cat']
+# animal_type = input(f'Choose your animal: {(' or ').join(animal_type)}:')
+# animal_name = input('Putt name:')
+
+# print(f'Your dogs name is {animal_name}')
+
+# if animal_type == 'Dog':
+#     animal = Dog (animal_name)
+# else:
+#     animal = Cat (animal_name)
+
+# print(f'{animal_name} says {animal.sound()}')
+
+# name = input('Enter your name:')
+# lastname = input('Enter your lastname:')
+# age = input('Enter your age:')
+# print('1-Full Stuck')
+# print('2-Data Analytics')
+# choice = int(input('Choose your program:'))
+
+# class Person: 
+#     def __init__(self, name, lastname, age):
+#         self.name = name
+#         self.lastname = lastname
+#         self.age = age
+
+#     def hello(self):
+#         print(f'Hello, I`m {self.name}')
+
+# class Student(Person):
+#     def choose_program(self, choice):
+#         if choice == 1:
+#             self.program = 'Full Stack'
+#         elif choice == 2:
+#             self.program = 'Data Analytics'
+#         else:
+#             return()
+        
+#     def hello(self):
+#         print(f'Hello, I`m {self.name} {self.lastname}. I`m {self.age} and study in Developer.Institut at {self.program}.')
+
+# student = Student(name, lastname, age)
+# student.choose_program(choice)
+# student.hello()
+
+
+
+
+
