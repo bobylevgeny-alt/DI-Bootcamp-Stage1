@@ -1,0 +1,43 @@
+﻿"Statistics from 01/09/2025 until 31/08/2026"
+""
+"Reservation status: Confirmed, Option (non-expired)"
+"Board(s): any"
+"Reservation tag(s): any"
+""
+"Room type(s): any"
+"Room tag(s): any"
+""
+"Sales channel(s): any"
+"Agencies: any"
+"Corporates: any"
+""
+"Sales channel";"Number of reservations";"Rooms revenue";"Total revenue";"Sold rooms";"ADR";"Reservation Rate (all / same sales channel)";"Reservation Rate (same channel type)"
+"All reservations";"2223";"1,449,813.02 ILS";"1,577,461.45 ILS";"3366";"430.72 ILS";"-"
+"Manual reservations";"873";"536,014.11 ILS";"577,919.11 ILS";"1313";"408.24 ILS";"39.27%"
+"Zak Online Reception";"0";"0 ILS";"0 ILS";"0";"0 ILS";"0%"
+"Zak Channel Manager";"1350";"913,798.91 ILS";"999,542.34 ILS";"2053";"445.10 ILS";"60.73%"
+
+"Direct reservations";"873";"536,014.11 ILS";"577,919.11 ILS";"1313";"408.24 ILS";"-"
+"YouBook";"95";"58,882 ILS";"63,137 ILS";"155";"379.88 ILS";"10.88%"
+"zCrm";"0";"0 ILS";"0 ILS";"0";"0 ILS";"0%"
+"Fast Planner";"725";"441,911.11 ILS";"475,738.11 ILS";"1064";"415.33 ILS";"83.05%"
+"Copied";"45";"30,737 ILS";"34,560 ILS";"82";"374.84 ILS";"5.15%"
+"Mobile App";"8";"4,484 ILS";"4,484 ILS";"12";"373.67 ILS";"0.92%"
+
+"Online Reception";"0";"0 ILS";"0 ILS";"0";"0 ILS";"-"
+"Diretto";"0";"0 ILS";"0 ILS";"0";"0 ILS";"0%"
+
+"Zak Channel Manager";"1350";"913,798.91 ILS";"999,542.34 ILS";"2053";"445.10 ILS";"-"
+
+"Agoda";"22";"8,587.88 ILS";"8,877.88 ILS";"28";"306.71 ILS";"1.63%";""
+"Agoda ID: 167159";"22";"8,587.88 ILS";"8,877.88 ILS";"28";"306.71 ILS";"1.63%";""
+
+"Booking";"1102";"723,333.30 ILS";"794,430.59 ILS";"1626";"444.85 ILS";"81.63%";""
+"Booking ID: 186426";"1102";"723,333.30 ILS";"794,430.59 ILS";"1626";"444.85 ILS";"81.63%";""
+
+"Expedia";"52";"51,425.18 ILS";"60,520.18 ILS";"132";"389.58 ILS";"3.85%";""
+"Expedia ID: 3234921";"52";"51,425.18 ILS";"60,520.18 ILS";"132";"389.58 ILS";"3.85%";""
+
+"WooDoo";"174";"130,452.54 ILS";"135,713.68 ILS";"267";"488.59 ILS";"12.89%";""
+"WooDoo ID: 1381743271";"174";"130,452.54 ILS";"135,713.68 ILS";"267";"488.59 ILS";"12.89%";""
+
